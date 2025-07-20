@@ -2,7 +2,6 @@
 
 A Laravel-based Employee Management System that allows users to Create, Read, Update, and Delete employee records with validation and clean UI.
 ---
-https://github.com/user-attachments/assets/507e3156-4645-48f9-90d4-6555e92f6095
 
 ## 📸 Screenshots
 
